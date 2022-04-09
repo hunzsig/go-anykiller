@@ -1,0 +1,7 @@
+# Remove name .example
+# Use "conf.ini" file setting your app
+
+PORT = 9999
+PROXY =
+# PROXY = http://127.0.0.1:10809
+# PROXY = sock5://127.0.0.1:10808
